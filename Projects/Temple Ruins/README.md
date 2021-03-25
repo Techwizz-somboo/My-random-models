@@ -1,1 +1,2 @@
+# REFLECTION
 In this project, I used basic shapes to create the temple including spheres, cylinders, and Torus'. After I put them all together, all that was left make it a ruin, can't have it looking all nice and pretty! I simply added shapes and put them into the pillars. After that I went on the pillar and added a boolean modifyer. After that it was just a repetative proccess. It took me about 1 1/2 Hours to do this. It was really fun and gave me a greater understanding of the boolean modifyer.
